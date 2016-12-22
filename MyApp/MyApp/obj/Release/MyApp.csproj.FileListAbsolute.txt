@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\MyApp\MyApp\bin\Release\MyApp.exe.config
+C:\Users\Administrator\Desktop\MyApp\MyApp\bin\Release\MyApp.exe
+C:\Users\Administrator\Desktop\MyApp\MyApp\bin\Release\MyApp.pdb
+C:\Users\Administrator\Desktop\MyApp\MyApp\obj\Release\MyApp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MyApp\MyApp\obj\Release\MyApp.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MyApp\MyApp\obj\Release\MyApp.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\MyApp\MyApp\obj\Release\MyApp.exe
+C:\Users\Administrator\Desktop\MyApp\MyApp\obj\Release\MyApp.pdb
